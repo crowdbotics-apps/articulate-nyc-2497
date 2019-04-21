@@ -1,0 +1,3 @@
+rootProject.name = 'articulate_nyc_2497'
+
+include ':app'
